@@ -34,4 +34,4 @@
         <img src="http://www.usipi.org/wp-content/uploads/2018/07/SelfHelp.png" alt="" />
         <p>First All Women Self-Help Group Formed in Bidar in 2017.</p>
       </div>
-
+    </div>
